@@ -1,0 +1,356 @@
+[
+    {
+        "full name": "Lars Karlsson",
+        "e-mail": "Lars_Karlsson54@gmail.com",
+        "city": "Hofterup",
+        "pets": "hund"
+    },
+    {
+        "full name": "Anette Nilsson",
+        "e-mail": "Anette_Nilsson@gmail.com",
+        "city": "Delsbo",
+        "pets": "fågel"
+    },
+    {
+        "full name": "Ronja Andersson",
+        "e-mail": "Ronja88@yahoo.com",
+        "city": "Örnsköldsvik",
+        "pets": "fågel"
+    },
+    {
+        "full name": "Alexandra Johansson",
+        "e-mail": "Alexandra_Johansson92@yahoo.com",
+        "city": "Akalla",
+        "pets": "fågel"
+    },
+    {
+        "full name": "Angelica Olsson",
+        "e-mail": "Angelica77@gmail.com",
+        "city": "Kopparmora",
+        "pets": "fisk"
+    },
+    {
+        "full name": "Hans Gustafsson",
+        "e-mail": "Hans.Gustafsson@gmail.com",
+        "city": "Kinna",
+        "pets": "fågel"
+    },
+    {
+        "full name": "Nils Persson",
+        "e-mail": "Nils.Persson90@gmail.com",
+        "city": "Svalsta",
+        "pets": "marsvin"
+    },
+    {
+        "full name": "Anders Eriksson",
+        "e-mail": "Anders_Eriksson47@hotmail.com",
+        "city": "Hällefors",
+        "pets": "kanin"
+    },
+    {
+        "full name": "Karl Johansson",
+        "e-mail": "Karl.Johansson@yahoo.com",
+        "city": "Hammarstrand",
+        "pets": "fisk"
+    },
+    {
+        "full name": "Elisabeth Nilsson",
+        "e-mail": "Elisabeth.Nilsson47@yahoo.com",
+        "city": "Bjärred",
+        "pets": "hund"
+    },
+    {
+        "full name": "Emil Karlsson",
+        "e-mail": "Emil_Karlsson@yahoo.com",
+        "city": "Hälleforsnäs",
+        "pets": "kanin"
+    },
+    {
+        "full name": "Emil Olsson",
+        "e-mail": "Emil.Olsson@gmail.com",
+        "city": "Kolsva",
+        "pets": "katt"
+    },
+    {
+        "full name": "Erik Johansson",
+        "e-mail": "Erik_Johansson44@yahoo.com",
+        "city": "Åkersberga",
+        "pets": "fisk"
+    },
+    {
+        "full name": "Nils Andersson",
+        "e-mail": "Nils9@hotmail.com",
+        "city": "Annelund",
+        "pets": "katt"
+    },
+    {
+        "full name": "Anneli Larsson",
+        "e-mail": "Anneli_Larsson44@gmail.com",
+        "city": "Markaryd",
+        "pets": "hund"
+    },
+    {
+        "full name": "Hans Andersson",
+        "e-mail": "Hans.Andersson36@yahoo.com",
+        "city": "Horndal",
+        "pets": "kanin"
+    },
+    {
+        "full name": "Karl Gustafsson",
+        "e-mail": "Karl_Gustafsson47@gmail.com",
+        "city": "Stångby",
+        "pets": "katt"
+    },
+    {
+        "full name": "Agneta Svensson",
+        "e-mail": "Agneta_Svensson51@gmail.com",
+        "city": "Sävja",
+        "pets": "hund"
+    },
+    {
+        "full name": "Johan Olsson",
+        "e-mail": "Johan47@gmail.com",
+        "city": "Ljunghusen",
+        "pets": "fisk"
+    },
+    {
+        "full name": "Per Olsson",
+        "e-mail": "Per_Olsson@gmail.com",
+        "city": "Mockfjärd",
+        "pets": "kanin"
+    },
+    {
+        "full name": "Marie Olsson",
+        "e-mail": "Marie.Olsson@yahoo.com",
+        "city": "Grebo",
+        "pets": "fågel"
+    },
+    {
+        "full name": "Karin Andersson",
+        "e-mail": "Karin.Andersson36@yahoo.com",
+        "city": "Kåge",
+        "pets": "kanin"
+    },
+    {
+        "full name": "Agnes Andersson",
+        "e-mail": "Agnes38@hotmail.com",
+        "city": "Onsala",
+        "pets": "marsvin"
+    },
+    {
+        "full name": "Alva Persson",
+        "e-mail": "Alva24@hotmail.com",
+        "city": "Kinna",
+        "pets": "katt"
+    },
+    {
+        "full name": "Astrid Larsson",
+        "e-mail": "Astrid13@hotmail.com",
+        "city": "Åsbro",
+        "pets": "katt"
+    },
+    {
+        "full name": "Erik Gustafsson",
+        "e-mail": "Erik.Gustafsson@hotmail.com",
+        "city": "Rottne",
+        "pets": "kanin"
+    },
+    {
+        "full name": "Karin Olsson",
+        "e-mail": "Karin7@yahoo.com",
+        "city": "Rindö",
+        "pets": "kanin"
+    },
+    {
+        "full name": "Per Gustafsson",
+        "e-mail": "Per75@yahoo.com",
+        "city": "Timmernabben",
+        "pets": "katt"
+    },
+    {
+        "full name": "Johan Andersson",
+        "e-mail": "Johan_Andersson65@yahoo.com",
+        "city": "Köpingebro",
+        "pets": "marsvin"
+    },
+    {
+        "full name": "Agnes Karlsson",
+        "e-mail": "Agnes.Karlsson33@gmail.com",
+        "city": "Ekshärad",
+        "pets": "katt"
+    },
+    {
+        "full name": "Johan Gustafsson",
+        "e-mail": "Johan94@hotmail.com",
+        "city": "Kopparmora",
+        "pets": "katt"
+    },
+    {
+        "full name": "Kristina Larsson",
+        "e-mail": "Kristina_Larsson46@gmail.com",
+        "city": "Fjärås kyrkby",
+        "pets": "hund"
+    },
+    {
+        "full name": "Anneli Gustafsson",
+        "e-mail": "Anneli.Gustafsson@yahoo.com",
+        "city": "Skinnskatteberg",
+        "pets": "hund"
+    },
+    {
+        "full name": "Emil Svensson",
+        "e-mail": "Emil_Svensson42@hotmail.com",
+        "city": "Vagnhärad",
+        "pets": "kanin"
+    },
+    {
+        "full name": "Lennart Nilsson",
+        "e-mail": "Lennart66@gmail.com",
+        "city": "Delsbo",
+        "pets": "kanin"
+    },
+    {
+        "full name": "Hans Olsson",
+        "e-mail": "Hans.Olsson@yahoo.com",
+        "city": "Strövelstorp",
+        "pets": "kanin"
+    },
+    {
+        "full name": "Emil Johansson",
+        "e-mail": "Emil.Johansson@hotmail.com",
+        "city": "Segeltorp",
+        "pets": "fisk"
+    },
+    {
+        "full name": "Agneta Nilsson",
+        "e-mail": "Agneta.Nilsson@yahoo.com",
+        "city": "Kristinehamn",
+        "pets": "fågel"
+    },
+    {
+        "full name": "Johan Andersson",
+        "e-mail": "Johan92@hotmail.com",
+        "city": "Åkarp",
+        "pets": "katt"
+    },
+    {
+        "full name": "Agnes Gustafsson",
+        "e-mail": "Agnes44@hotmail.com",
+        "city": "Myggenäs",
+        "pets": "fågel"
+    },
+    {
+        "full name": "Per Olsson",
+        "e-mail": "Per_Olsson@hotmail.com",
+        "city": "Piteå",
+        "pets": "hund"
+    },
+    {
+        "full name": "Elisabeth Svensson",
+        "e-mail": "Elisabeth59@yahoo.com",
+        "city": "Vännäsby",
+        "pets": "hund"
+    },
+    {
+        "full name": "Per Persson",
+        "e-mail": "Per.Persson15@yahoo.com",
+        "city": "Vellinge",
+        "pets": "katt"
+    },
+    {
+        "full name": "Anders Gustafsson",
+        "e-mail": "Anders_Gustafsson@gmail.com",
+        "city": "Hököpinge",
+        "pets": "fisk"
+    },
+    {
+        "full name": "Nils Olsson",
+        "e-mail": "Nils_Olsson93@yahoo.com",
+        "city": "Gammelstad",
+        "pets": "marsvin"
+    },
+    {
+        "full name": "Marie Svensson",
+        "e-mail": "Marie_Svensson@gmail.com",
+        "city": "Skrea",
+        "pets": "marsvin"
+    },
+    {
+        "full name": "Anders Eriksson",
+        "e-mail": "Anders_Eriksson@gmail.com",
+        "city": "Munkedal",
+        "pets": "hund"
+    },
+    {
+        "full name": "Ronja Svensson",
+        "e-mail": "Ronja_Svensson@hotmail.com",
+        "city": "Mockfjärd",
+        "pets": "kanin"
+    },
+    {
+        "full name": "Birgitta Persson",
+        "e-mail": "Birgitta32@hotmail.com",
+        "city": "Partille",
+        "pets": "hund"
+    },
+    {
+        "full name": "Karl Gustafsson",
+        "e-mail": "Karl.Gustafsson22@hotmail.com",
+        "city": "Flen",
+        "pets": "hund"
+    },
+    {
+        "full name": "Karl Olsson",
+        "e-mail": "Karl_Olsson@gmail.com",
+        "city": "Mörarp",
+        "pets": "fisk"
+    },
+    {
+        "full name": "Anders Gustafsson",
+        "e-mail": "Anders_Gustafsson@hotmail.com",
+        "city": "Herrestad",
+        "pets": "katt"
+    },
+    {
+        "full name": "Astrid Persson",
+        "e-mail": "Astrid55@hotmail.com",
+        "city": "Sjömarken",
+        "pets": "katt"
+    },
+    {
+        "full name": "Ann Andersson",
+        "e-mail": "Ann_Andersson@yahoo.com",
+        "city": "Nynäshamn",
+        "pets": "fisk"
+    },
+    {
+        "full name": "Johan Karlsson",
+        "e-mail": "Johan_Karlsson44@gmail.com",
+        "city": "Olofström",
+        "pets": "fisk"
+    },
+    {
+        "full name": "Birgitta Karlsson",
+        "e-mail": "Birgitta83@gmail.com",
+        "city": "Dalarö",
+        "pets": "katt"
+    },
+    {
+        "full name": "Birgitta Andersson",
+        "e-mail": "Birgitta.Andersson88@yahoo.com",
+        "city": "Veinge",
+        "pets": "fågel"
+    },
+    {
+        "full name": "Kristina Persson",
+        "e-mail": "Kristina.Persson@yahoo.com",
+        "city": "Kumla",
+        "pets": "hund"
+    },
+    {
+        "full name": "Hans Olsson",
+        "e-mail": "Hans_Olsson@hotmail.com",
+        "city": "Vansbro",
+        "pets": "marsvin"
+    }
+]

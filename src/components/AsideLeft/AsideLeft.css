@@ -1,0 +1,23 @@
+.asideWrapper{
+  display: flex;
+  width: 75%;
+  }
+  .dataSearch{
+  display: block;
+  width: 350px;
+  background-color: #EDAF97;
+  padding: 0 20px;
+  }
+  .groupPets{
+  display: block;
+  width: 600px;
+  padding: 0 20px;
+  background-color: white;
+  }
+  .foundData{
+    width: 300px;
+    height: 550px;
+    overflow-y: scroll;
+    scrollbar-color: rebeccapurple green;
+    scrollbar-width: thin;
+  }

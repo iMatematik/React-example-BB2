@@ -1,0 +1,12 @@
+.foundData{
+  background-color: #EDAF97;
+  width: 300px;
+  height: 500px;
+  overflow-y: scroll;
+  scrollbar-color: rebeccapurple green;
+  scrollbar-width: thin;
+  margin-top: 10px;
+}
+li{
+list-style-type: none;
+}

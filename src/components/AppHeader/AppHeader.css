@@ -1,0 +1,10 @@
+.divHeader{
+  background-color: #AD91A3;
+  text-align: center;
+  height: 100px;
+  display: block;
+  padding: 25px 0;
+}
+h1{
+  font-weight: 600;
+}
